@@ -1,0 +1,24 @@
+.words {
+    display: flex;
+    background-color: #FFD700;
+    justify-content: center;
+    padding: 32px;
+    align-items: center;
+    text-align: center;
+}
+
+.forms {
+    background-color: #29D926;
+    display: grid;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.csvdownload {
+    background-color: #FFD700;
+    display: grid;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
